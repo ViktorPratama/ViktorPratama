@@ -39,9 +39,11 @@ Saya adalah mahasiswa **Informatika di Universitas Papua (UNIPA)** yang sangat a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorPratama&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorPratama&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorPratama&theme=aura&hide_border=false&include_all_commits=true&show_icons=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorPratama&theme=aura&hide_border=false&layout=compact" height="150" alt="Top Langs" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ViktorPratama&theme=aura&hide_border=false" height="150" alt="Streak" />
@@ -52,10 +54,6 @@ Saya adalah mahasiswa **Informatika di Universitas Papua (UNIPA)** yang sangat a
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ViktorPratama&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
 </div>
-
----
-
-<div align="center">
   
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
